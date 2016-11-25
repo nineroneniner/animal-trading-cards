@@ -1,0 +1,26 @@
+.animal {
+    border: 1px solid #ccc;
+    width: 300px;
+    padding:10px;
+}
+
+#info-box {
+    border: 1px solid #ccc;
+    width: 300px;
+}
+
+#info-box > p{
+    margin-left: 10px;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.items li {
+    list-style-type: none;
+}
+
+ul.items li span {
+    font-weight: bold;
+}
